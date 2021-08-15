@@ -1,0 +1,12 @@
+C:\Users\EMINHAS\source\repos\ExperianCodeTest\Experian.Services\bin\Debug\netcoreapp3.1\Experian.Services.deps.json
+C:\Users\EMINHAS\source\repos\ExperianCodeTest\Experian.Services\bin\Debug\netcoreapp3.1\Experian.Services.dll
+C:\Users\EMINHAS\source\repos\ExperianCodeTest\Experian.Services\bin\Debug\netcoreapp3.1\Experian.Services.pdb
+C:\Users\EMINHAS\source\repos\ExperianCodeTest\Experian.Services\bin\Debug\netcoreapp3.1\Experian.Models.dll
+C:\Users\EMINHAS\source\repos\ExperianCodeTest\Experian.Services\bin\Debug\netcoreapp3.1\Experian.Models.pdb
+C:\Users\EMINHAS\source\repos\ExperianCodeTest\Experian.Services\obj\Debug\netcoreapp3.1\Experian.Services.csprojAssemblyReference.cache
+C:\Users\EMINHAS\source\repos\ExperianCodeTest\Experian.Services\obj\Debug\netcoreapp3.1\Experian.Services.AssemblyInfoInputs.cache
+C:\Users\EMINHAS\source\repos\ExperianCodeTest\Experian.Services\obj\Debug\netcoreapp3.1\Experian.Services.AssemblyInfo.cs
+C:\Users\EMINHAS\source\repos\ExperianCodeTest\Experian.Services\obj\Debug\netcoreapp3.1\Experian.Services.csproj.CoreCompileInputs.cache
+C:\Users\EMINHAS\source\repos\ExperianCodeTest\Experian.Services\obj\Debug\netcoreapp3.1\Experian.Services.csproj.CopyComplete
+C:\Users\EMINHAS\source\repos\ExperianCodeTest\Experian.Services\obj\Debug\netcoreapp3.1\Experian.Services.dll
+C:\Users\EMINHAS\source\repos\ExperianCodeTest\Experian.Services\obj\Debug\netcoreapp3.1\Experian.Services.pdb
